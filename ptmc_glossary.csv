@@ -5,7 +5,7 @@ S.N., phrase/terminology, conceptual definition , numerical values (if applicabl
 3, lattice parameters,a set of parameters that describe the size and shape of a crystal lattice , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
 4, Bain strain, the change in the lattice parameters (lengths and angles of the unit cell) before and after the phase transformation, ε_Bain_ij = (A'_ij - A_ij) / A_ij , ,https://link.springer.com/article/10.1007/BF02642442
 , , , A_ij and A'_ij respectively represent the components of the lattice parameters matrix before and after the transformation , ,
-5, lattice invariant shear (LIS), a specific type of shear deformation in a crystalline lattice that preserves the overall lattice structure, , ,
+5, lattice invariant shear (F), a specific type of shear deformation in a crystalline lattice that preserves the overall lattice structure, F = I + γS , ,
 6, orientation relationships, , , ,
 7, WLR Theory,,, ,
 8, BM Theory,, , ,
