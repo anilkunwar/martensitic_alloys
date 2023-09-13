@@ -1,5 +1,5 @@
-S.N., phrase/terminology, explanation, references, 
-1, invariant plane strain,,,
+S.N., phrase/terminology, definition/explanation, remarks/purpose, references
+1, invariant plane strain,Invariant plane strain is a concept in mechanics, particularly in the field of solid mechanics and materials science, where deformation is restricted to occur only within a specific plane of a material, and this deformation is assumed to be invariant or constant throughout the material thickness.,Simplifies problems of materials behavior,
 2, habit plane indices,,,
 3, lattice parameters, , ,
 4, Bain strain, , ,
