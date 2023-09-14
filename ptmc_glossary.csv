@@ -6,6 +6,6 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 4, Bain strain, the change in the lattice parameters (lengths and angles of the unit cell) before and after the phase transformation, ε_Bain_ij = (A'_ij - A_ij) / A_ij , ,https://link.springer.com/article/10.1007/BF02642442
 , , , A_ij and A'_ij respectively represent the components of the lattice parameters matrix before and after the transformation , ,
 5, lattice invariant shear (F), a specific type of shear deformation in a crystalline lattice that preserves the overall lattice structure, F = I + γS ; where I is idenity matrix  γ is shear strain mag. and S is shear deformation matrix, ,
-6, orientation relationships, Examples: rotation matrices;  Euler angles;  quaternion representations; and pole figures , Rij; Roll (φ) Pitch (θ) and Yaw (ψ); q=a+bi+cj+dk, ,
+6, orientation relationships, Examples: rotation matrices;  Euler angles;  quaternion representations; and pole figures , Rij; Roll (φ) Pitch (θ) and Yaw (ψ); q=a+bi+cj+dk; pole figures represented by polar angle azimuthal angle and miller indices, ,
 7, WLR Theory,,, ,
 8, BM Theory,, , ,
