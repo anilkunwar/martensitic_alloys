@@ -23,7 +23,7 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 ,,shear deformation in a crystalline lattice,I is idenity matrix,,
 ,,that preserves the overall lattice structure,γ is shear strain mag.,,
 ,,,and S is shear deformation matrix,,
-9, orientation relationships, Examples: rotation matrices;  , Rij;    , ,
+9, orientation relationships, Examples: rotation matrices;  , Rij;    , ,https://doi.org/10.1016/S1359-6454(03)00395-1
 ,,  Euler angles;,Roll (φ) Pitch (θ) and Yaw (ψ),,
 ,, quaternion representations; ,q=a+bi+cj+dk;,,
 ,,,a b c d = real numbers,,
