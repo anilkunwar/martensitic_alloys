@@ -2,7 +2,8 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 1, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
 2, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Crystallographic planes identification within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
  , , ,different constraints imposed upon crystal structure types ,predict material properties/behavior guided by crystal orientation ,
-3, lattice parameters,a set of parameters that describe the size and shape of a crystal lattice , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
+3, lattice parameters,a set of parameters that  , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
+,,describe the size and shape of a crystal lattice,,,
 4, Bain strain, change in the lattice parameters  before , ε_Bain_ij = (A'_ij - A_ij) / A_ij , ,https://link.springer.com/article/10.1007/BF02642442
 ,,and after the phase transformation,,,
 , , , A_ij or A'_ij = Components of lattice param matrix, ,
