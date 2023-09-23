@@ -4,7 +4,7 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
  , , ,different constraints imposed upon crystal structure types ,predict material properties and behavior guided by crystal orientation ,
 3, lattice parameters,a set of parameters that describe the size and shape of a crystal lattice , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
 4, Bain strain, the change in the lattice parameters  before and after the phase transformation, ε_Bain_ij = (A'_ij - A_ij) / A_ij , ,https://link.springer.com/article/10.1007/BF02642442
-, , , A_ij and A'_ij respectively represent the components of the lattice parameters matrix before and after the transformation , ,
+, , , A_ij (before) and A'_ij (after) respectively represent the components of the lattice parameters matrix, ,
 ,,,,,
 ,,,,,
 ,,,,,
