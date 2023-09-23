@@ -13,7 +13,7 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
  , , ,different constraints imposed upon crystal structure types ,predict material properties/behavior guided by crystal orientation ,
 6, lattice parameters,a set of parameters that  , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
 ,,describe the size and shape of a crystal lattice,,,
-7, Bain strain, change in the lattice parameters  before , ε_Bain_ij = (A'_ij - A_ij) / A_ij; where , ,https://link.springer.com/article/10.1007/BF02642442
+7, Bain strain, change in the lattice parameters  before , ε_B_ij = (A'_ij - A_ij) / A_ij; where , ,https://link.springer.com/article/10.1007/BF02642442
 ,,and after the phase transformation, A_ij = Components of lattice param matrix before,,
 , , ,  A'_ij = Components of lattice param matrix after, ,
 , , , the phase transformation, ,
