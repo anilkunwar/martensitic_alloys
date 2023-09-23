@@ -12,7 +12,7 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 4, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
 ,,,,,	https://doi.org/10.1051/jphyscol:1974705
 5, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Crystallographic planes identification within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
- , , ,different constraints imposed upon crystal structure types ,predict material properties/behavior guided by crystal orientation ,
+ , , ,different constraints imposed upon crystal structure types ,predict material properties/behavior guided by crystal orientation ,https://doi.org/10.1016/j.jnucmat.2006.12.009
 6, lattice parameters,a set of parameters that  , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
 ,,describe the size and shape of a crystal lattice,,,
 7, Bain strain, change in the lattice parameters  before , ε_B_ij = (A'_ij - A_ij) / A_ij; where , ,https://link.springer.com/article/10.1007/BF02642442
