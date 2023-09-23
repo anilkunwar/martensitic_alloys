@@ -6,7 +6,8 @@ WLR theory, Wechsler Lieberman and Read theory
 BM theory, Bowles and Mackenzie theory
 IPS, invariant plane strain 
 LIS, lattice invariant shear
-ANN,
-SVM,
-CNN,
-PINN,
+ANN, artificial neural networks
+SVM, support vector machine
+CNN, convolutional neural network
+ML, Machine Learning
+PINN, Physics Informed Neural Network 
