@@ -3,7 +3,6 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 ,,martensite crystallography,,,https://doi.org/10.1016/S1359-6454(97)00435-7
 ,,e.g. (WLR Theory; BM Theory) ,,,https://doi.org/10.1016/S1359-6454(03)00395-1
 ,,,,, https://doi.org/10.1002/9781118803592.ch15
-,,,,,https://github.com/frankNiessen/PTMC
 2, WLR Theory,The Wechsler-Lieberman-Read (WLR) theory,Pi =ϕi⋅[x.Bi +(1−x).ϕ.Bj]; where, Applicable for Ni-Ti (shape memory alloy); ,https://doi.org/10.1002/9781118803592.ch5
 ,,of crystallography of martensitic transformations,Pi = shape strain matrix*,Au-Cd and Fe-Ni-C alloys,https://doi.org/10.1016/0001-6160(66)90025-3
 ,,,ϕ = Rotation matrix*,,* https://doi.org/10.1016/S1359-6462(96)00482-4
@@ -12,6 +11,7 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 ,,of martensite crystallography,,,https://doi.org/10.1016/S0921-5093(00)00697-3
 ,,,,,https://doi.org/10.1016/B978-008044019-4/50027-1
 ,,,,,https://doi.org/10.1016/j.actamat.2009.04.051
+,,,,,https://github.com/frankNiessen/PTMC
 4, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
 ,,,,,	https://doi.org/10.1051/jphyscol:1974705
 5, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Crystallographic planes identification within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
