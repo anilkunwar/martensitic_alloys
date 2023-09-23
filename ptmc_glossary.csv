@@ -13,7 +13,7 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 ,,that preserves the overall lattice structure,γ is shear strain mag.,,
 ,,,and S is shear deformation matrix,,
 6, orientation relationships, Examples: rotation matrices;  , Rij;    , ,
-,,  Euler angles;Roll (φ) Pitch (θ) and Yaw (ψ),,,
+,,  Euler angles;,Roll (φ) Pitch (θ) and Yaw (ψ),,
 ,, quaternion representations; ,q=a+bi+cj+dk;,,
 ,,and pole figures,by polar angle azimuthal angle and miller indices,,
 ,,,,,
