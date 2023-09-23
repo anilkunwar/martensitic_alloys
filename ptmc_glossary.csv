@@ -1,12 +1,1 @@
 S.N., phrase/terminology, conceptual definition , numerical values or notations (if applicable) , remarks/purpose , reference consisting of the word or phrase
-1, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
-2, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Description or identification of crystallographic planes within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
- , , ,different constraints may be imposed on the indices depending upon whether the crystal structure ,predict material properties and behavior guided by crystal orientation ,
-3, lattice parameters,a set of parameters that describe the size and shape of a crystal lattice , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
-4, Bain strain, the change in the lattice parameters (lengths and angles of the unit cell) before and after the phase transformation, ε_Bain_ij = (A'_ij - A_ij) / A_ij , ,https://link.springer.com/article/10.1007/BF02642442
-, , , A_ij and A'_ij respectively represent the components of the lattice parameters matrix before and after the transformation , ,
-5, lattice invariant shear (F), a specific type of shear deformation in a crystalline lattice that preserves the overall lattice structure, F = I + γS ; where I is idenity matrix  γ is shear strain mag. and S is shear deformation matrix, ,
-6, orientation relationships, Examples: rotation matrices;  Euler angles;  quaternion representations; and pole figures , Rij; Roll (φ) Pitch (θ) and Yaw (ψ); q=a+bi+cj+dk; pole figures represented by polar angle azimuthal angle and miller indices, ,
-7,PTMC,,,,
-8, WLR Theory,,, ,
-9, BM Theory,, , ,
