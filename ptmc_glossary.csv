@@ -1,29 +1,29 @@
 S.N., phrase/terminology, conceptual definition , numerical values or notations (if applicable) , remarks/purpose , references consisting of the word or phrase
-1, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
-2, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Crystallographic planes identification within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
+1,PTMC,Phenomenological theory of  ,,,https://doi.org/10.1007/BF02649029
+,,martensite crystallography,,,https://doi.org/10.1016/S1359-6454(97)00435-7
+,,e.g. (WLR Theory; BM Theory) ,,,https://doi.org/10.1016/S1359-6454(03)00395-1
+,,,,, https://doi.org/10.1002/9781118803592.ch15
+2, WLR Theory,,, ,
+3, BM Theory,, , ,
+4, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
+5, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Crystallographic planes identification within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
  , , ,different constraints imposed upon crystal structure types ,predict material properties/behavior guided by crystal orientation ,
-3, lattice parameters,a set of parameters that  , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
+6, lattice parameters,a set of parameters that  , a b and c in the unit of Å ; α β and  γ in unit of degrees(°), ,
 ,,describe the size and shape of a crystal lattice,,,
-4, Bain strain, change in the lattice parameters  before , ε_Bain_ij = (A'_ij - A_ij) / A_ij; where , ,https://link.springer.com/article/10.1007/BF02642442
+7, Bain strain, change in the lattice parameters  before , ε_Bain_ij = (A'_ij - A_ij) / A_ij; where , ,https://link.springer.com/article/10.1007/BF02642442
 ,,and after the phase transformation, A_ij = Components of lattice param matrix before,,
 , , ,  A'_ij = Components of lattice param matrix after, ,
 , , , the phase transformation, ,
-5, lattice invariant shear (F), a specific type of  , F = I + γS ; where    , ,
+8, lattice invariant shear (F), a specific type of  , F = I + γS ; where    , ,
 ,,shear deformation in a crystalline lattice,I is idenity matrix,,
 ,,that preserves the overall lattice structure,γ is shear strain mag.,,
 ,,,and S is shear deformation matrix,,
-6, orientation relationships, Examples: rotation matrices;  , Rij;    , ,
+9, orientation relationships, Examples: rotation matrices;  , Rij;    , ,
 ,,  Euler angles;,Roll (φ) Pitch (θ) and Yaw (ψ),,
 ,, quaternion representations; ,q=a+bi+cj+dk;,,
 ,,,a b c d = real numbers,,
 ,,,i j k  = imaginary numbers,,
 ,,and pole figures,by polar angle azimuthal angle and miller indices,,
-7,PTMC,Phenomenological theory of  ,,,https://doi.org/10.1007/BF02649029
-,,martensite crystallography,,,https://doi.org/10.1016/S1359-6454(97)00435-7
-,,e.g. (WLR Theory; BM Theory) ,,,https://doi.org/10.1016/S1359-6454(03)00395-1
-,,,,, https://doi.org/10.1002/9781118803592.ch15
-8, WLR Theory,,, ,
-9, BM Theory,, , ,
 ,,,,,
 ,,,,,
 ,,,,,
