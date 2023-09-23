@@ -1,4 +1,4 @@
 S.N., phrase/terminology, conceptual definition , numerical values or notations (if applicable) , remarks/purpose , reference consisting of the word or phrase
 1, invariant plane strain, Material deformation within fixed plane , , Simplifies problems of materials behavior , https://www.jstor.org/stable/77873
 2, habit plane indices,Indices (h k l) describing crystal plane orientation, (h k l) ∈ ℤ (where ℤ is a set of all integers ),Description or identification of crystallographic planes within a crystal lattice , https://www.mdpi.com/2073-4352/12/6/813
-
+ , , ,different constraints may be imposed on the indices depending upon whether the crystal structure ,predict material properties and behavior guided by crystal orientation ,
