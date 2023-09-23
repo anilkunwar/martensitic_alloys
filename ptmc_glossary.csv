@@ -15,6 +15,8 @@ S.N., phrase/terminology, conceptual definition , numerical values or notations 
 6, orientation relationships, Examples: rotation matrices;  , Rij;    , ,
 ,,  Euler angles;,Roll (φ) Pitch (θ) and Yaw (ψ),,
 ,, quaternion representations; ,q=a+bi+cj+dk;,,
+,,,a b c d = real numbers,,
+,,,i j k  = imaginary numbers,,
 ,,and pole figures,by polar angle azimuthal angle and miller indices,,
 7,PTMC,,,,
 8, WLR Theory,,, ,
