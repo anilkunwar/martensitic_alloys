@@ -4,4 +4,4 @@ S.N., Method, Purpose, Reference
 3, Gaussian Process Regression (GPR), Mapping the functional relationship between alloying elements and Ms, Zhang et al.; Simulation; 97 (2021) 383–425.
 4, Committee of GPR; ANN and Gradient Boost Decision Tree, Determination of rupture strength in Fe-based martenstic and austenitic alloys, Mamun et al.; Sci. Rep.; 11 (2021) 5466.
 5, Linear ;  Polynomial and Support Vector Regressions, Estimation of transformation temperature in NiTi-based shape memory alloys, Xue et al.; Acta Mater. ; 125 (2017) 532–541.
-6, XGB regression model and Deep Neural Network, Prediction of Martensite finish (Mf)  Austenite finish (Af) and transformation range (Af - Mf) temperatures, Trehern et al. ; Acta Mater. ; 228 (2022) 117751.
+6, XGB regression model and Deep Neural Network, Prediction of Martensite finish (Mf);  Austenite finish (Af) and transformation range (Af - Mf) temperatures, Trehern et al. ; Acta Mater. ; 228 (2022) 117751.
