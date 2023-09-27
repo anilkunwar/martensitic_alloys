@@ -5,5 +5,6 @@ S.N., Methods, Purpose, Reference
 4, Committee of GPR; ANN and Gradient Boost Decision Tree, Determination of rupture strength in Fe-based martenstic and austenitic alloys, Mamun et al.; Sci. Rep.; 11 (2021) 5466.
 5, Linear ;  Polynomial and Support Vector Regressions, Estimation of transformation temperature in NiTi-based shape memory alloys, Xue et al.; Acta Mater. ; 125 (2017) 532–541.
 6, XGB regression model and Deep Neural Network, Prediction of Martensite finish (Mf);  Austenite finish (Af) and transformation temperature range (Af - Mf) , Trehern et al. ; Acta Mater. ; 228 (2022) 117751.
-7, GPR; Random Forests and Support Vector Regression, Estimation of (Af+Mf)/2 and (Af-Mf), Liu et al.; Appl. Mater. Today; 22 (2021) 100898
-8, ANN, Prediction of strain-induced martensite, Mirzadeh and Najafizadeh; J. Alloys Compd.  476 (2009) 352–355. 
+7, GPR; Random Forests (RF) and Support Vector Regression, Estimation of (Af+Mf)/2 and (Af-Mf), Liu et al.; Appl. Mater. Today; 22 (2021) 100898
+8, ANN, Prediction of strain-induced martensites (SIM), Mirzadeh and Najafizadeh; J. Alloys Compd.  476 (2009) 352–355. 
+9, Gradient Boosting; RF; Extremely randomized trees; and  Adaboost, Estimation of SIM , Mu et al. ;  Mater. Des. ; 197 (2021) 109199.
