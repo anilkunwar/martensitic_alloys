@@ -1,4 +1,4 @@
-S.N., Method, Purpose, Reference
+S.N., Methods, Purpose, Reference
 1, Artificial Neural Networks, Prediction of Martensitic Start temperature (Ms), Vermeulen et al.; Ironmak. Steelmak.; 23 (1996) 433–437
 2, Hybrid thermodynamic–neural network model,  Estimation of Ms, Peet M. ; Mater. Sci. Technol.;  31 (2015) 1370–1375. 
 3, Gaussian Process Regression (GPR), Mapping the functional relationship between alloying elements and Ms, Zhang et al.; Simulation; 97 (2021) 383–425.
